@@ -1,0 +1,6 @@
+Failed login from 192.168.1.10
+Failed login from 45.33.32.156
+Brute force detected from 185.220.101.1
+Unauthorized access from 103.45.67.89
+SQL injection attempt from 8.8.8.8
+Port scan detected from 1.1.1.1
