@@ -107,9 +107,9 @@ Threat Level: CRITICAL | Score: 100
 
 ![CSV Report](screenshots/csv-report.png)
 
-### Threat Dashboard
+## Threat Dashboard
 
-![Threat Dashboard](screenshots/threat-dashboard.png)
+![Threat Dashboard](screenshots/threat_dashboard.png)
 
 ## Features
 
