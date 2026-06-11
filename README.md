@@ -97,11 +97,9 @@ IP Address: 185.220.101.1
 Threat Level: CRITICAL | Score: 100
 ```
 
-## Resume Description
+## Description
 
 Built a Python-based Security Automation Tool that detects suspicious log activities, extracts attacker IP addresses, checks IP reputation using AbuseIPDB, sends Telegram alerts, stores incidents in SQLite, and generates CSV reports and dashboards for SOC-style monitoring.
-
-## Resume Bullet Points
 
 - Developed a SOC-style security monitoring tool using Python to detect suspicious logs and failed login attempts.
 - Integrated AbuseIPDB API for IP reputation analysis and automated threat classification.
